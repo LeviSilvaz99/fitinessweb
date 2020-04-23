@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fitinessweb/static/css/main.ab6fe7fb.chunk.css",
+    "main.js": "/fitinessweb/static/js/main.8627f42a.chunk.js",
+    "main.js.map": "/fitinessweb/static/js/main.8627f42a.chunk.js.map",
+    "runtime-main.js": "/fitinessweb/static/js/runtime-main.defeae7e.js",
+    "runtime-main.js.map": "/fitinessweb/static/js/runtime-main.defeae7e.js.map",
+    "static/js/2.e71eaf6b.chunk.js": "/fitinessweb/static/js/2.e71eaf6b.chunk.js",
+    "static/js/2.e71eaf6b.chunk.js.map": "/fitinessweb/static/js/2.e71eaf6b.chunk.js.map",
+    "index.html": "/fitinessweb/index.html",
+    "precache-manifest.6589dc8d71af8162733c5899f0b37ebb.js": "/fitinessweb/precache-manifest.6589dc8d71af8162733c5899f0b37ebb.js",
+    "service-worker.js": "/fitinessweb/service-worker.js",
+    "static/css/main.ab6fe7fb.chunk.css.map": "/fitinessweb/static/css/main.ab6fe7fb.chunk.css.map",
+    "static/js/2.e71eaf6b.chunk.js.LICENSE.txt": "/fitinessweb/static/js/2.e71eaf6b.chunk.js.LICENSE.txt",
+    "static/media/bg.mp4": "/fitinessweb/static/media/bg.2ff2fff5.mp4",
+    "static/media/man.png": "/fitinessweb/static/media/man.6d12206f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.defeae7e.js",
+    "static/js/2.e71eaf6b.chunk.js",
+    "static/css/main.ab6fe7fb.chunk.css",
+    "static/js/main.8627f42a.chunk.js"
+  ]
+}
