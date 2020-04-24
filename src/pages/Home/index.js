@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 
+
 import bgVid from '../../Assets/bg.mp4'
 import manImg from '../../Assets/man.png'
 import facebookImg from '../../Assets/facebook.png'
@@ -13,7 +14,7 @@ export default class Home extends Component{
         return (
             
             <div className="banner">
-                <video loop autoPlay> 
+                <video Loop autoPlay> 
                         <source src={bgVid} type="video/mp4"></source>
                     </video>
                 <div className="textBox">
